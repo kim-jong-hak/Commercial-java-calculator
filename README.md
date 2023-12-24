@@ -10,4 +10,6 @@
 <br><br><br>
 
 ## 프로그램 실행 사진
-https://private-user-images.githubusercontent.com/106467549/292685793-9b2ece64-d4c9-41c8-bcf7-a5acc2364050.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDM0NDU1MzksIm5iZiI6MTcwMzQ0NTIzOSwicGF0aCI6Ii8xMDY0Njc1NDkvMjkyNjg1NzkzLTliMmVjZTY0LWQ0YzktNDFjOC1iY2Y3LWE1YWNjMjM2NDA1MC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIyNFQxOTEzNTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lODMxMTc1MDRiYjhkMWEwN2YyMjFmZjQyMWQ0OWViYTI0NzUzMTE4MmRmMTRiYjE4NzgxZGRmZTdmYzkyNzU2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.hxQB7iKcS9D6p11HwKs-q-uQopq4e85MOcflFPHst5A
+<img width="293" alt="계산기 첫 화면 모습" src="https://github.com/kim-jong-hak/Commercial-java-calculator/assets/106467549/9b2ece64-d4c9-41c8-bcf7-a5acc2364050">
+<img width="407" alt="계산기 지뢰찾기" src="https://github.com/kim-jong-hak/Commercial-java-calculator/assets/106467549/e318c26c-d112-4a05-bcd1-8c732d2bd11e">
+<img width="304" alt="계산기 히스토리 기능" src="https://github.com/kim-jong-hak/Commercial-java-calculator/assets/106467549/c6a2018b-aaef-47a5-9321-f35fd13c35cb">
