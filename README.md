@@ -13,3 +13,4 @@
 <img width="293" alt="계산기 첫 화면 모습" src="https://github.com/kim-jong-hak/Commercial-java-calculator/assets/106467549/9b2ece64-d4c9-41c8-bcf7-a5acc2364050">
 <img width="407" alt="계산기 지뢰찾기" src="https://github.com/kim-jong-hak/Commercial-java-calculator/assets/106467549/e318c26c-d112-4a05-bcd1-8c732d2bd11e">
 <img width="304" alt="계산기 히스토리 기능" src="https://github.com/kim-jong-hak/Commercial-java-calculator/assets/106467549/c6a2018b-aaef-47a5-9321-f35fd13c35cb">
+<img width="299" alt="자릿수" src="https://github.com/kim-jong-hak/Commercial-java-calculator/assets/106467549/c02fb4f1-b2c7-4ddd-b049-9c36fc9d71c3">
